@@ -15,4 +15,4 @@ Fitur :
   2.1 : Melihat Daftar Repository
     Apabila dilakukan action click pada daftar repsotiory yang ada, maka akan diarahkan ke intent berupa browser agar bisa melihat dan melakukan share intent
 
-![alt text](https://github.com/rahmadani325/d121181328_tugasMid/blob/master/demo.gif)
+![alt text](https://github.com/rahmadani325/d121181328_tugasMid/blob/master/demo.gif | height=300)
