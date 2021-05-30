@@ -2,6 +2,8 @@ package com.example.tugasmid.data.source
 
 import com.example.tugasmid.data.MainData
 import com.example.tugasmid.data.RepoData
+import com.example.tugasmid.data.source.local.MainDataLocalSource
+
 //import com.example.tugasmid.data.source.local.MainDataLocalSource
 
 
@@ -48,6 +50,7 @@ class MainDataRepository(
         @JvmStatic
         fun getInstance(
             mainDataRemoteSource: MainDataSource,
+            instance: MainDataLocalSource?,
 //            newsLocalDataSource: MainDataLocalSource
         ) =
             INSTANCE ?: synchronized(MainDataRepository::class.java) {
