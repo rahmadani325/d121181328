@@ -3,6 +3,7 @@ Berikut ini adalah tugas mid Pemrograman Aplikasi Mobile
 Judul Aplikasi : Menampilkan profil Github dan daftar repository user menggunakan API Github
 API yang digunakan : Api User Github
 Base_url : https://api.github.com/users/rahmadani325
+Didemo pada handphone : Realme 5s (Android 10)
 Penjelasan : Aplikasi ini dibangun dengan menggunakan arsitektur MVVM dan menggunakan Fragment
 Fitur :
 1. Profil Github
@@ -13,6 +14,6 @@ Fitur :
 2. Melihat Detail Repository
   Daftar repository dibuat menggunakan Fragmen dan RecyclerView. Berikut di bawah ini fitur yang ada :
   2.1 : Melihat Daftar Repository
-    Apabila dilakukan action click pada daftar repsotiory yang ada, maka akan diarahkan ke intent berupa browser agar bisa melihat dan melakukan share intent
+    Apabila dilakukan action click pada daftar repsotiory yang ada, maka akan diarahkan ke intent berupa browser (pada aplikasi yang sama) agar bisa melihat dan melakukan share intent
 
-![alt text](https://github.com/rahmadani325/d121181328_tugasMid/blob/master/demo.gif | height=300)
+<img src="https://github.com/rahmadani325/d121181328_tugasMid/blob/master/demo.gif" alt="Demo Aplikasi Format Gif" height="250px;">
