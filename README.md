@@ -16,4 +16,4 @@ Fitur :
   2.1 : Melihat Daftar Repository
     Apabila dilakukan action click pada daftar repsotiory yang ada, maka akan diarahkan ke intent berupa browser (pada aplikasi yang sama) agar bisa melihat dan melakukan share intent
 
-<img src="https://github.com/rahmadani325/d121181328_tugasMid/blob/master/demo.gif" alt="Demo Aplikasi Format Gif" height="450px;">
+<img src="https://github.com/rahmadani325/d121181328_tugasMid/blob/master/demo.gif" alt="Demo Aplikasi Format Gif" height="550px;">
